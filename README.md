@@ -12,7 +12,7 @@ This is a Kanban board application built using React JS that interacts with the 
 
 ## Demo
 
-You can see a live demo of the Kanban board application [here](https://main.d2nq9mz8ggbsl4.amplifyapp.com).
+You can see a live demo of the Kanban board application [here]().
 
 ## Installation
 
@@ -20,7 +20,7 @@ To run the Kanban board application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sagarchauhan015/kanban-board.git
+   git clone 
    ```
 
 2. Navigate to the project directory:
@@ -68,14 +68,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Make your changes, commit them, and push to your fork.
 
 5. Open a pull request to the original repository, explaining the changes you made.
-
-
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact the project maintainer:
-
-- **Name:** Sagar Chauhan
-- **Email:** [sagarchauhan015@gmail.com](mailto:sagarchauhan015@gmail.com)
 
 
 Enjoy using the Kanban board application to manage your tasks efficiently!
